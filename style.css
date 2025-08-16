@@ -11,7 +11,7 @@
     height: 100vh;
     display: grid;
     grid-template-rows:80px 40px 1fr 100px ;
-    grid-template-columns: 1fr 180px;
+    grid-template-columns: 1fr 150px;
     gap: 5px;
 }
 
