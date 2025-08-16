@@ -18,6 +18,7 @@
 
 .caixa {
     background-color: lightgray;
+    color: blue;
     border: solid black;
     padding: 10px;
     text-align: center;
