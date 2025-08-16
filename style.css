@@ -10,7 +10,7 @@
     width: 100vw;
     height: 100vh;
     display: grid;
-    grid-template-rows:80px 40px 1fr 90px ;
+    grid-template-rows:80px 40px 1fr 100px ;
     grid-template-columns: 1fr 180px;
     gap: 5px;
 }
